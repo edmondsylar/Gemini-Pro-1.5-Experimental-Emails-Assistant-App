@@ -83,10 +83,10 @@ class GeminiModelAssist:
 # Test the model
 GModel = GeminiModelAssist("model_instruction.txt")
 
-while True:
-    user_input = input("Interact::: ")
-    response = GModel.interact(user_input)
+# while True:
+#     user_input = input("Interact::: ")
+#     response = GModel.interact(user_input)
 
-    # con.log(f'{response['response_obj']}, \n\n {type(response['response_obj'])}')
+#     # con.log(f'{response['response_obj']}, \n\n {type(response['response_obj'])}')
 
-    con.print(f"\nModel: {response['response']}")
+#     con.print(f"\nModel: {response['response']}")

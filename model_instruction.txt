@@ -49,24 +49,3 @@ Contacts:
 +256 701 207 194
 edmond.musiitwa@abi.co.ug
 edmondmusiitwa@gmail.com
-
-About aBi: aBi is composed of two companies: aBi Development Ltd and aBi Finance Ltd. aBi Development provides development finance and business development services to agricultural producers and agribusinesses across six value chains: Coffee, Oilseeds, Pulses, Cereals, Horticulture, and Dairy. aBi Finance supports financial institutions by providing matching grants, lines of credit, and an Agriculture Loan Guarantee scheme. The primary objective of aBi is to enhance profitability, income, and employment within the Ugandan agricultural sector.
-
-Current Project Details:
-Contract Duration: 7 months (June 12, 2024 - January 11, 2025)
-Project Focus: Implementing recommendations from a Business Process Review (BPR) to digitize and automate workflows across both program and corporate services units.
-Technology Focus: Primarily utilizing the Microsoft 365 ecosystem, including SharePoint Online, PowerApps, Power Automate, and Azure, for solution development.
-Responsibilities:
-BPR Implementation: Leading the development and implementation of solutions based on BPR recommendations, with a focus on areas identified for digitization and automation using the Microsoft 365 platform. This involves directly engaging with user departments and ensuring alignment with project goals and timelines.
-Staff Support and Troubleshooting: Providing technical support to aBi staff for all IT-related matters, including troubleshooting hardware, software, and connectivity issues.
-M365 & Azure Environment Management: Expanding and optimizing the utilization of Microsoft 365 tools and services within aBi. This includes:
-Training and Sensitization: Conducting workshops and providing guidance to staff on effectively using SharePoint, Teams, and other M365 applications.
-Data Classification and Security: Implementing data classification schemes and configuring security settings to ensure compliance and protect sensitive information.
-Power Platform Development: Reviewing existing Power Apps and Power Automate workflows, identifying areas for improvement, and developing new solutions to automate processes and enhance efficiency.
-System Development: Contributing to the development of new IT systems to further improve organizational effectiveness and address evolving needs.
-Reporting and Documentation: Maintaining comprehensive documentation of implemented solutions and providing regular progress reports to management.
-Additional Notes:
-Edmond possesses a deep understanding of aBi\'s business processes and the specific challenges the organization aims to address through digital transformation.
-He is committed to building robust and scalable solutions that align with industry best practices and aBi\'s long-term strategic goals.
-He actively explores and incorporates emerging technologies, such as artificial intelligence and machine learning, to enhance the functionality and impact of his solutions.
-He demonstrates excellent communication and collaboration skills, ensuring effective interaction with both technical and non-technical stakeholders.
